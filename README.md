@@ -3,14 +3,10 @@
 [![Build Status](https://github.com/collabnix/dwctl/workflows/CI/badge.svg)](https://github.com/collabnix/dwctl/actions)
 
 
-> A local Docker Desktop workshop management tool inspired by [iximiuz Labs labctl](https://github.com/iximiuz/labctl)
 
 
 ## 🎯 Problem Solved
 
-**Challenge**: DevRel teams need on-demand workshop environments for Docker Desktop, but existing solutions are cloud-hosted and don't integrate with the local Docker Desktop VM environment.
-
-**Solution**: dwctl brings the excellent UX patterns from iximiuz's labctl to local Docker Desktop environments.
 
 ## 🚀 Quick Start
 
@@ -38,11 +34,6 @@ go build -o dwctl ./cmd/dwctl
 - 🛠️ **IDE Integration** - SSH proxy support for VS Code Remote development
 - 📚 **Workshop Templates** - Pre-built workshops for Docker, Node.js, Python, Kubernetes
 
-## 🎨 Inspired By
-
-This project is heavily inspired by the excellent work of:
-- **[Ivan Velichko](https://github.com/iximiuz)** and [iximiuz Labs](https://labs.iximiuz.com)
-- **[labctl](https://github.com/iximiuz/labctl)** - The CLI interface patterns we adapt
 
 ## 🚧 Development Status
 
@@ -60,14 +51,4 @@ This project is heavily inspired by the excellent work of:
 
 We welcome contributions! This project is part of the [Collabnix Community](https://collabnix.com).
 
-## 📜 License
 
-Apache License 2.0
-
-## 🙏 Acknowledgments
-
-Special thanks to [Ivan Velichko](https://github.com/iximiuz) for creating the labctl patterns that inspire this project.
-
----
-
-**Built with ❤️ by the Collabnix Community**

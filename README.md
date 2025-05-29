@@ -1,11 +1,10 @@
 # Docker Workshop Control (dwctl)
 
 [![Build Status](https://github.com/collabnix/dwctl/workflows/CI/badge.svg)](https://github.com/collabnix/dwctl/actions)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 > A local Docker Desktop workshop management tool inspired by [iximiuz Labs labctl](https://github.com/iximiuz/labctl)
 
-Brought to you by the [Collabnix Community](https://collabnix.com) 🚀
 
 ## 🎯 Problem Solved
 
